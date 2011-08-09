@@ -1,0 +1,143 @@
+1;CHRIS Suarez;Estatística;31
+2;NICHOLAS Boykins;Introdução à Computação;84
+3;ALBERT Hildreth;Comércio Exterior II;36
+4;RONALD Oliva;Inteligência Artificial;85
+5;ERNEST Babbitt;Banco de Dados;63
+6;GREGORY Williford;Psicopatologia do Adulto e da Terc.Idade;78
+7;HOWARD Garza;Redação de Projetos e Relatórios Cient.;30
+8;JIMMY Wenger;Matemática Fundamental;25
+9;NORMAN Chitwood;Antropologia Cultural;60
+10;BRIAN Hutton;Desenho Técnico;24
+11;HOWARD Andrew;Comércio Exterior I;50
+12;SHAWN Boyette;Legislação Aduaneira;2
+13;CHAD Moyers;Introdução ao Turismo;27
+14;TRAVIS Obryant;Contabilidade Geral;22
+15;AARON Alcaraz;Estágio Superv. em Educação Infantil;13
+16;EDWARD Brann;Matemática Aplicada;77
+17;PETER Roth;Matemática Financeira II;70
+18;RANDY Cambell;Arquitetura de Computadores;5
+19;STEVE Griego;Trabalho de Conclusão de Curso;72
+20;STEPHEN Lasater;Adm. e Desenvolvimento de Produtos;52
+21;KEVIN Hwang;Estr. e Func. da Educação Básica II;79
+22;GARY Brenneman;Física III;65
+23;CHARLES Severance;Português;87
+24;JEREMY Plant;Estatística Aplicada a Qualidade I;13
+25;BRIAN Teal;Teorias da Administração;97
+26;ADAM Mattern;Aspectos Geográficos;69
+27;VINCENT Grammer;Fundamentos Antropológicos;23
+28;CRAIG Manson;Trabalho de Conclusão;71
+29;CHARLES Deal;Gestão da Informação;84
+30;CRAIG Barrows;Sociologia da Educação;0
+31;BERZ Everton;História do Brasil III;6
+32;ASSIS Francisco;Introdução à Economia;83
+33;PEREIRA Flavia;Língua Estrangeira: Espanhol I;47
+34;CAETANO Reginaldo;Psicomotricidade;91
+35;ANTUNES Eurico;Laboratório de Program. de Comput. I;67
+36;AZAMBUJA Marcelo;Redes de Computadores II;56
+37;RONALD Oliva;Português;27
+38;ERNEST Babbitt;Matemática Financeira I;5
+39;GREGORY Williford;Processo de Desenvolvimento de Produtos;57
+40;HOWARD Garza;Projeto Exp. I (T.C.) - Módulo II;39
+41;JIMMY Wenger;Prática Profissional II;85
+42;NORMAN Chitwood;Análise Matemática;19
+43;BRIAN Hutton;Atividades Complementares;35
+44;HOWARD Andrew;Lógica e Matemática Discreta;62
+45;SHAWN Boyette;Prática de Ensino Médio;4
+46;CHAD Moyers;Auditoria II;52
+47;TRAVIS Obryant;Estágio Profissional II - Psicologia Tra;21
+48;AARON Alcaraz;Cálculo Diferencial e Integral IV;59
+49;EDWARD Brann;Produção Gráfica;74
+50;PETER Roth;Trabalho de Conclusão I;99
+51;RANDY Cambell;Aprendizagem;62
+52;STEVE Griego;Fundamentos e Metod. de Educação Física;88
+53;STEPHEN Lasater;Diagnóstico da Área Comercial;64
+54;KEVIN Hwang;Contabilidade de Custos I;97
+55;GARY Brenneman;Engenharia de Software;72
+56;CHARLES Severance;História Medieval II;50
+57;JEREMY Plant;Matemática Financeira I;35
+58;BRIAN Teal;Língua Brasileira de Sinais - Libras;61
+59;ADAM Mattern;Técnicas de Exame Psicológico II;43
+60;VINCENT Grammer;Deontologia;45
+61;CRAIG Manson;Estatística I;1
+62;CHARLES Deal;Projeto Exp. II - Agência de Propaganda;24
+63;CRAIG Barrows;Estr. e Funcionamento da Educação Básica;14
+64;BERZ Everton;Criação e Redação em Propaganda II;11
+65;ASSIS Francisco;Antropologia;28
+66;PEREIRA Flavia;Computação Gráfica;32
+67;CAETANO Reginaldo;Gestão da Informação;63
+68;ANTUNES Eurico;Currículo e Avaliação;64
+69;AZAMBUJA Marcelo;Psicologia Institucional;93
+70;JIMMY Wenger;Introdução à Pesquisa;27
+71;NORMAN Chitwood;Administração de Produção II;91
+72;BRIAN Hutton;História da Cultura e da Arte;82
+73;HOWARD Andrew;Matemática Financeira;54
+74;SHAWN Boyette;Linguística Aplicada à Alfabetização;52
+75;CHAD Moyers;Física IV;68
+76;TRAVIS Obryant;Economia e Finanças Públicas;47
+77;AARON Alcaraz;Planejamento Territorial e Urbano;64
+78;EDWARD Brann;Computação Gráfica;46
+79;PETER Roth;Formação e Desenv. da Equipe de Vendas;62
+80;RANDY Cambell;Deontologia;34
+81;STEVE Griego;Sistemas Nac. e Intern. de Comunicação;59
+82;STEPHEN Lasater;Planejamento e Organização em Turismo I;25
+83;KEVIN Hwang;Estágio Supervisionado do Ens. Fund. I;13
+84;GARY Brenneman;Trabalho de Conclusão II;83
+85;CHARLES Severance;Análise de Custos;65
+86;JEREMY Plant;Português;68
+87;BRIAN Teal;Avaliação de Desempenho de Sistemas;27
+88;ADAM Mattern;Psicofarmacologia;38
+89;VINCENT Grammer;Administração de Vendas;8
+90;CRAIG Manson;História do Rio Grande do Sul I;1
+91;CHARLES Deal;Filosofia da Ciência;93
+92;CRAIG Barrows;Administração da Produção;5
+93;BERZ Everton;Sistemas Distribuídos;55
+94;ASSIS Francisco;Cidadania e Projetos Sociais;20
+95;PEREIRA Flavia;Matemática;61
+96;CAETANO Reginaldo;Contabilidade Introdutória;38
+97;ANTUNES Eurico;Estágio em Pesquisa I;21
+98;AZAMBUJA Marcelo;Educação e Novas Tecnologias;89
+99;CHAD Moyers;Fundamentos e Metodologia de História;54
+100;TRAVIS Obryant;Literatura Infanto-Juvenil;40
+101;AARON Alcaraz;Economia e Mercado;97
+102;EDWARD Brann;Estágio Profissional;51
+103;PETER Roth;Pesquisa e Prática Pedagógica I;86
+104;RANDY Cambell;Comunicação Comparada;81
+105;STEVE Griego;Direito Tributário;26
+106;STEPHEN Lasater;Projeto Prático de Sistemas;9
+107;KEVIN Hwang;Gestão da Qualidade;57
+108;GARY Brenneman;Assessoria Integrada de Comunicação;61
+109;CHARLES Severance;Organização de Dados;83
+110;JEREMY Plant;Metodologia Científica e Tecnológica;59
+111;BRIAN Teal;Tópicos Especiais;76
+112;ADAM Mattern;Trabalho de Conclusão II;80
+113;VINCENT Grammer;Psicologia Ambiental;69
+114;CRAIG Manson;Língua Brasileira de Sinais - Libras;36
+115;CHARLES Deal;Matemática Financeira II;53
+116;CRAIG Barrows;Psicologia do Trabalho I;98
+117;BERZ Everton;Pesquisa Mercadológica;65
+118;ASSIS Francisco;Fundamentos do Processo Administrativo;85
+119;PEREIRA Flavia;Trabalho de Conclusão II;27
+120;CAETANO Reginaldo;Estágio I;56
+121;ANTUNES Eurico;Programação I;22
+122;AZAMBUJA Marcelo;Teorias do Texto e do Discurso;38
+123;STEVE Griego;Metodologia do Ensino da Literatura;40
+124;STEPHEN Lasater;Fundamentos da Matemática I;100
+125;KEVIN Hwang;Desenvolvim. e Significado do Brinquedo;36
+126;GARY Brenneman;Organização de Dados;62
+127;CHARLES Severance;Educação de Jovens e Adultos;51
+128;JEREMY Plant;Tópicos Especiais I;8
+129;BRIAN Teal;Cálculo Numérico;69
+130;ADAM Mattern;Cálculo II;59
+131;VINCENT Grammer;Linguística Aplicada a Alfabetização;17
+132;CRAIG Manson;Psicologia do Desenvolvimento I;48
+133;CHARLES Deal;Fundamentos e Metodologia da Arte;94
+134;CRAIG Barrows;E.P.B. II (Humanismo e Tecnologia);18
+135;BERZ Everton;Fundamentos e Metodologia da Music.;51
+136;ASSIS Francisco;Seres Humanos em Situação de Risco;39
+137;PEREIRA Flavia;Informática;47
+138;CAETANO Reginaldo;Técnicas de Comunicação no Turismo;23
+139;ANTUNES Eurico;Sistemas Operacionais;73
+140;AZAMBUJA Marcelo;Administração de Recursos Humanos I;58
+141;CAETANO Reginaldo;Fundamentos de Linguística;43
+142;ANTUNES Eurico;Composto Promocional;62
+143;AZAMBUJA Marcelo;Metodologia da Pesquisa em Turismo;45
